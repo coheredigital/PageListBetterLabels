@@ -1,5 +1,7 @@
-PageListBetterLabels
+#PageListBetterLabels
 ====================
+
+A module built for ProcessWire CMS that facilitates more page tree label customization making it easier to browse large lists of pages on complex websites. This type of functionality has since been integrated with ProcessWire v3.0
 
 How it works
 - anything that starts or ends with a dash does not get processed as a page field
